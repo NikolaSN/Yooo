@@ -27,7 +27,7 @@ public class sdaopjs {
 		int index32 = 0;
 		for(int i=0; i<n; i++) {
 			if(min > arr[i]) {
-				index32=i;
+				index32=2;
 				min=arr[i];
 			}
 		}
